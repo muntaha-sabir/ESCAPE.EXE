@@ -2,7 +2,7 @@
 
 > At 3:07 AM, Pip — the sprout hero of Sam's buggy game "Super Jump Quest 3" — glitches out of his game and falls onto Sam's desktop.
 
-[![Play on Web][(https://img.shields.io/badge/▶_Play_On_Web-Play_Now_on_Itch.io-2ea44f?style=for-the-badge&logo=itch.io)](YOUR_ITCH_IO_WEB_LINK_HERE)](https://ayesha-siddiqa.itch.io/escapeexe)
+[![Play on Web](https://img.shields.io/badge/▶_Play_On_Web-Play_Now_on_Itch.io-2ea44f?style=for-the-badge&logo=itch.io)](https://ayesha-siddiqa.itch.io/escapeexe)
 
 ---
 
